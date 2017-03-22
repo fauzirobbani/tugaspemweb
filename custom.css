@@ -1,0 +1,38 @@
+.background {
+  width: 100%;
+  min-height: 100%;
+  background: #000000;
+  padding-top: 150px;
+}
+
+.background_signup {
+  width: 100%;
+  height: 1000px;
+  background: #000000;
+  padding-top: 35px;
+}
+
+.background_admin {
+  margin-top: 0;
+  width: 100%;
+  height: 100%;
+  background: #00FFFF;
+  padding-top: 35px;
+}
+
+.kotak{
+  padding: 10px 30px;
+  border-radius: 8px;
+  width: 400px;
+  height: 330px;
+  background: #FCFEFF;
+}
+
+.kotak_signup{
+  padding: 10px 30px;
+  border-radius: 8px;
+  width: 400px;
+  height: 890px;
+  background: #FCFEFF;
+}
+
